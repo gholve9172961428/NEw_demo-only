@@ -16,6 +16,9 @@ public class forth {
 	public void sana()
 	{
 		System.out.println(" ye dil hain ashikhana");
+		System.out.println("aurangabad");
+		System.out.println(" BEED PUNE BEED");
+		
 	}
 
 }
