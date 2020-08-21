@@ -12,4 +12,10 @@ public class forth {
 		System.out.println("kutrac c a chala ka me pan yenar tu yenar ka");
 	}
 
+	
+	public void sana()
+	{
+		System.out.println(" ye dil hain ashikhana");
+	}
+
 }
